@@ -1,0 +1,42 @@
+body {font-family:'Outfit', sans-serif }
+
+section.theme-dark.section-selector-1 { background-color: var(--trend-900) }
+section.theme-dark.section-selector-1 h2 { color: var(--white-000) }
+section.theme-dark.section-selector-1 p { color: var(--white-000) } 
+section.theme-dark.section-selector-1 li { color: var(--white-000) } 
+section.theme-dark.section-selector-1 .container-upper-label { color: var(--white-000) }
+
+section.theme-dark.section-selector-2 { background-color: var(--trend-800) }
+section.theme-dark.section-selector-2 h2 { color: var(--white-000) }
+section.theme-dark.section-selector-2 h3 { color: var(--white-000) }
+section.theme-dark.section-selector-2 p { color: var(--white-000) } 
+section.theme-dark.section-selector-2 li { color: var(--white-000) } 
+
+section.theme-dark.section-selector-3 { background-color: var(--trend-700) }
+section.theme-dark.section-selector-3 h2 { color: var(--white-000) }
+section.theme-dark.section-selector-3 h3 { color: var(--white-000) }
+section.theme-dark.section-selector-3 p { color: var(--white-000) } 
+section.theme-dark.section-selector-3 li { color: var(--white-000) } 
+
+
+section.theme-dark.section-selector-4 { background-color: var(--trend-700) }
+section.theme-dark.section-selector-4 h2 { color: var(--white-000) }
+section.theme-dark.section-selector-4 h3 { color: var(--white-000) }
+section.theme-dark.section-selector-4 p { color: var(--white-000) } 
+section.theme-dark.section-selector-4 li { color: var(--white-000) } 
+
+section.theme-dark.section-selector-5 { background-color: var(--trend-700) }
+section.theme-dark.section-selector-5 .col-1 h2 { color: var(--white-000) }
+section.theme-dark.section-selector-5 .col-3 h3 { color: var(--white-000) }
+section.theme-dark.section-selector-5 .col-3 h3 { color: var(--white-000) }
+section.theme-dark.section-selector-5 .col-3 p { color: var(--white-000) }
+.section-selector-5 .col-3 li { color: var(--white-000) }
+section.theme-dark.section-selector-5 .col-3 figure.icon { color: var(--blue-300) }
+
+
+
+
+
+
+
+
