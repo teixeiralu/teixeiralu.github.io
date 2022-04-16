@@ -2,3 +2,8 @@
 
 section.theme-light.section-selector-1 { background-color: var(--slate-200) }
 
+footer ul.footer-icons li a:any-link i {
+    font-size: 38px
+
+}
+
